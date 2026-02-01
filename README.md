@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard suite for analyzing loan applications, funding performance, risk (good vs. bad loans), and key metrics in a consumer lending business.
 
-Built with Tableau Public/Desktop using a Lending Club-style loan dataset (~38K applications).
+Built with Tableau Public/Desktop using a Financial_loan dataset (~38K applications).
 
 ## Project Overview
 This portfolio project visualizes critical lending KPIs to help stakeholders monitor:
